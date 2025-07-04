@@ -1,6 +1,7 @@
 # Hello, there!
 
 I'm **Chanukya Venepally**, graduate student at SMU Guildhall and a fellow Graphics enthusiast. I like games that visually stunning (*and obviously, good gameplay elements!*).
+---
 I'm currently working on a __Custom C++ Engine__ with Direct3D 11 Graphics API (DX12 soon) along with FMOD for audio and tinyXML2 for XML parsing. I've also made a few games 
 using that engine, you can find them in my reprositories.
 
