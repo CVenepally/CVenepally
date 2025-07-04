@@ -1,11 +1,10 @@
 # Hello, there!
 
-I'm **Chanukya Venepally**, graduate student at SMU Guildhall and a fellow Graphics enthusiast. I like games that visually stunning (*and obviously, good gameplay elements!*).
+I’m Chanukya Venepally, a graduate student at SMU Guildhall and a graphics programming enthusiast. I enjoy games that are visually stunning and of course, ones with solid gameplay.
 
-I'm currently working on a __Custom C++ Engine__ with Direct3D 11 Graphics API (DX12 soon) along with FMOD for audio and tinyXML2 for XML parsing. I've also made a few games 
-using that engine, you can find them in my reprositories.
+Right now, I’m building a custom C++ game engine that supports both Direct3D 11 and Direct3D 12 (in progress). It also uses FMOD for audio and tinyXML2 for XML parsing. I’ve built a few games using this engine which you can find in my repositories.
 
-## What am I doing right now?
-- Currently adding support for Direct3D 12 in my engine.
-- Researching about ReSTIR and other raytracing solutions to implement in my engine as a part of my thesis.
-- Working on our capstone game using Unreal Engine 5 with a team of 28 people (7 programmers).
+## What I'm working on
+- Adding Direct3D 12 support to my engine while maintaining DX11 compatibility
+- Researching ReSTIR and other ray tracing techniques as part of my thesis work
+- Developing a capstone game in Unreal Engine 5 with a 28-person team (7 programmers)
